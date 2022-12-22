@@ -1,0 +1,7 @@
+build
+pongc3ds.*
+pongc3ds-strip.*
+romfs/gfx/*.t3x
+romfs/gfx/*.bcfnt
+banner/*.bnr
+*.s
